@@ -1,0 +1,8 @@
+<BOS>
+one two three four five six seven eight reverse digit
+<SEP>
+uno dos tres cuatro cinco seis siete ocho
+<SEP>
+tour five slx seven eight reverse digit
+1 2 3 4 5 6 7 8
+<EOS>
